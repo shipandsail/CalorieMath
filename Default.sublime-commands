@@ -1,0 +1,5 @@
+[
+  { "caption": "Calorie Math: Daily Calories (TDEE)", "command": "calorie_math_tdee" },
+  { "caption": "Calorie Math: Calories From Macros", "command": "calorie_math_macros" },
+  { "caption": "Calorie Math: Insert Nutrition Facts Table", "command": "calorie_math_insert_label" }
+]

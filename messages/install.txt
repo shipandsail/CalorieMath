@@ -1,0 +1,1 @@
+Calorie Math installed. Open the command palette and type "Calorie Math".
